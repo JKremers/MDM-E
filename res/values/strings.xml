@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MDM-E</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Welcome to the proof of concept of MDM-E. In this version all of the output can be found in the console.</string>
+    <string name="courtesy">Made by Radboud Universiteit Nijmegen and Deloitte NL.</string>
+
+</resources>
